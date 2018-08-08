@@ -36,7 +36,7 @@ h1 {
     text-align: center;
 }
 a {
-    color: #0f2e43;
+    color: white;
     text-decoration: none;
     font-size: 22px;
 }
@@ -54,12 +54,12 @@ a:hover {
 .menu li {
     display: inline;
     padding: 6px;
-    color: #0a202a;
+    color: white;
 }
 
 .menu {
     list-style-type: none;
-    background-color: #a9dff1;
+    background-color: #000000;
     padding: 6px;
     font-size: 20px;
 
